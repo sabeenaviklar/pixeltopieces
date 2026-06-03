@@ -48,11 +48,11 @@ Want to see the magic on your local machine? It's as easy as pie 🥧:
 
 ---
 
-## 🤝 We ❤️ Contributors!
+## 🤝 For ❤️ Contributors!  
 
 **You don't need to be an expert to contribute!** Whether you're fixing a tiny typo, adding a completely new feature, squashing bugs, or improving our UI, we want **YOU**. 🫵
 
-### How you can help right now:
+### How you can you work :
 - 🐛 **Find a bug?** Open an issue and let us know!
 - 💅 **Have a design idea?** We love fresh UI/UX perspectives.
 - 💻 **Love writing code?** Check out our open issues labeled `good first issue`!
